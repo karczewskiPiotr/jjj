@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-paaw-basic",
+  "name": "jjj",
   "private": true,
-  "description": "A simple starter for PaaW projects.",
+  "description": "",
   "version": "0.1.0",
-  "author": "Piotr Karczewski <p.karczewsk@gmail.com>",
+  "author": "karczewskiPiotr",
   "dependencies": {
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
